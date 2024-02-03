@@ -1,0 +1,1 @@
+const String allEventsLogo = 'assets/images/png/all_events.png';
